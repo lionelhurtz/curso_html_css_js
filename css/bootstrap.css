@@ -1,0 +1,50 @@
+
+h1 {
+  color: blue;
+}
+.image {
+  position: relative;
+  text-align: center;
+  background-color: black;
+}
+.image .texto {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  color: white;
+  font-weight: normal;
+
+}
+
+img.ri {
+ position: relative;
+ width: 100%;
+ vertical-align: middle;
+}
+
+img.ico {
+ position: relative;
+ width: 70%;
+ vertical-align: middle;
+}
+
+.parrafo{
+  color: blue;
+  background-color: #EFF4F1;
+}
+
+.iconos {
+  background-color: write;
+}
+/*
+@media (min-width: 600px) {
+  .facet_sidebar {
+    display: none;
+  }
+  img.ri {
+   position: relative;
+   width: 100%;
+   text-align: center;
+   vertical-align: middle;
+  }
+}*/
